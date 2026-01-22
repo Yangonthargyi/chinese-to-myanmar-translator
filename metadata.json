@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Chinese to Myanmar AI Video Translator",
+  "description": "An AI-powered tool that translates Chinese video dialogue into natural Myanmar speech and generates downloadable SRT subtitle files.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
